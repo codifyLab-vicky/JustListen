@@ -1,10 +1,14 @@
 
 # 📌 프로젝트 개요
 **프로젝트명**: **저스트리슨 (Just Listen)**  
-**설명**: 시각장애인을 위한 **아이트래킹 기반 뉴스 요약 및 맞춤형 추천 음성 서비스**  
+**설명**: 시각장애인을 위한 **아이트래킹 기반 뉴스 요약 및 맞춤형 추천 음성 서비스** 
 **공모전 성과**: [**뉴스빅데이터 공모전 본선 진출**](https://www.newsbigdata.kr/summary/summary.php)  
+**비고**: 본 프로젝트는 아이디어 구현 단계로, 실제 아이트래킹 데이터를 수집·활용하는 과정에는 기술적 한계가 있었습니다. 
+대신 데이터 기반 기획과 모델 설계를 통해 프로토타입을 제시했습니다.
 
 ---
+![Prototype 화면 예시 1](imgs/prototype_1.png)  
+![Prototype 화면 예시 2](imgs/prototype_2.png)  
 
 # 🎯 프로젝트의 필요성과 서비스 도입 전후 비교
 
@@ -73,26 +77,6 @@
 
 ---
 
-# 📥 설치 및 실행 방법
-
-## **환경 설정**  
-```bash
-git clone https://github.com/your-repo/justlisten.git
-cd justlisten
-pip install -r requirements.txt
-```
-
-## **서비스 실행**  
-```bash
-python app.py
-```
-
-## **API 키 설정**  
-- BigKinds API 키를 `.env` 파일에 추가  
-- Google Web Speech API 설정  
-
----
-
 # 🧑‍💻 팀 구성  
 - **김나혜**: 프로젝트 기획 및 PM  
 - **전정훈**: 데이터 처리 및 모델링  
@@ -101,11 +85,5 @@ python app.py
 
 ---
 
-# 📜 라이선스  
-[MIT License](LICENSE)
-
----
-
 # 📧 연락처  
-- **이메일**: yourname@example.com  
-- **GitHub**: [저스트리슨 GitHub](https://github.com/your-repo)  
+- **이메일**: vicky729.dev@gmail.com 
