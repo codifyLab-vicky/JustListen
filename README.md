@@ -7,8 +7,7 @@
 대신 데이터 기반 기획과 모델 설계를 통해 프로토타입을 제시했습니다.
 
 ---
-![Prototype 화면 예시 1](imgs/prototype_1.png)  
-![Prototype 화면 예시 2](imgs/prototype_2.png)  
+![Prototype 화면 예시 1](imgs/prototype_1.png)  ![Prototype 화면 예시 2](imgs/prototype_2.png)  
 
 # 🎯 프로젝트의 필요성과 서비스 도입 전후 비교
 
