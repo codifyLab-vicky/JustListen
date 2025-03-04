@@ -9,8 +9,8 @@
 
 ---
 <p align="center">
-  <img src="imgs/prototype_1.png" width="350">
-  <img src="imgs/prototype_2.png" width="350">
+  <img src="imgs/prototype_1.png" width="300">
+  <img src="imgs/prototype_2.png" width="300">
 </p>
 
 # 🎯 프로젝트의 필요성과 서비스 도입 전후 비교
